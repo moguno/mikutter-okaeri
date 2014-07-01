@@ -1,10 +1,10 @@
 mikutter-okaeri
 ===============
 
-Debianパッケージ版のmikutterにみくったーちゃんが帰ってきます。
+Debianパッケージ版のmikutterにマスコットキャラのみくったーちゃんが帰ってきます。
 
 # インストール方法
 
-1. このページの右下の[Download Zip]からプラグインをダウンロードする。（mikutter-okaeri-master.zip的な名前になっていると思います。）
+1. このページの右下の[Download ZIP]からプラグインをダウンロードする。
 2. ~/.mikutter/plugin/mikutter-okaeri/ディレクトリにzipファイル内のmikutter-okaer.rbとspecを展開する。（ディレクトリが無い場合は作る）
 3. みくったーを起動する。
