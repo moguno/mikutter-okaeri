@@ -3,7 +3,7 @@ slug: :mikutter-okaeri
 depends:
   mikutter: 3.5.9
   plugin: []
-version: 0.0.1
+version: 0.1.0
 author: 
 name: おかえりみくったーちゃん
 description: Debianパッケージ版のmikutterにみくったーちゃんを呼び戻します
